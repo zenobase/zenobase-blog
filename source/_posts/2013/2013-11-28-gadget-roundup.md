@@ -8,7 +8,7 @@ There are dozens of self-tracking gadgets on the market. Most of these gadgets a
 
 **Fitbit One**
 
-![](tumblr_inline_mwzpfpTPvu1rqupev.jpg)
+![](mwzpfpTPvu1rqupev.jpg)
 
 The [Fitbit One](http://www.fitbit.com/one) is the most accurate step counter we have seen so far. It also tracks distance and elevation gain, which is more useful, really, and does so more reliably than most GPS devices–especially on trails that don’t follow smooth lines.
 
@@ -18,7 +18,7 @@ The Fitbit One can also be used to track sleep, but requires manual starting and
 
 **BodyMedia FIT**
 
-![](tumblr_inline_mwzpfyMwnD1rqupev.jpg)
+![](mwzpfyMwnD1rqupev.jpg)
 
 The [BodyMedia FIT](http://www.bodymedia.com/the_interface.html) can also count steps, but its main selling point is the ability to track how many calories you are burning throughout the day. For most purposes, this is more useful than counting steps or distance, unless all your exercise consists of walking at a steady pace on even trails.
 
@@ -28,7 +28,7 @@ The BodyMedia FIT is also a convenient sleep tracker, as it detects when you are
 
 **Withings Wireless Scale**
 
-![](tumblr_inline_mwzubeaqJP1rqupev.jpg)
+![](mwzubeaqJP1rqupev.jpg)
 
 [Withings’ Wireless Scale](http://www.withings.com/en/wirelessscale) is perfect for people who are too lazy to manually record their body weight once a day.
 
@@ -38,7 +38,7 @@ The scale also measures body fat %, but it’s not clear if that data is accurat
 
 **Netatmo Personal Weather Station**
 
-![](tumblr_inline_mwzuc8yBlR1rqupev.jpg)
+![](mwzuc8yBlR1rqupev.jpg)
 
 Ever wonder how environmental factors such as temperature, humidity, noise levels and air quality affect your sleep or your productivity at work? [Netatmo’s Personal Weather Station](http://www.netatmo.com/en-US/product) collects the data you need to answer such questions.
 
@@ -46,7 +46,7 @@ Ever wonder how environmental factors such as temperature, humidity, noise level
 
 **Polar H7 Heart Rate Monitor**
 
-![](tumblr_inline_mwzuhytcgy1rqupev.jpg)
+![](mwzuhytcgy1rqupev.jpg)
 
 The [Polar H7](http://www.polar.com/us-en/products/accessories/H7_heart_rate_sensor) is one of the few gadgets that are accurate enough to measure [heart rate variability](http://en.wikipedia.org/wiki/Heart_rate_variability).
 
@@ -60,7 +60,7 @@ One caveat: Polar appears to have quality control issues (our device stopped giv
 
 **NeuroSky MindWave**
 
-![](tumblr_inline_mwzuilC6hy1rqupev.jpg)
+![](mwzuilC6hy1rqupev.jpg)
 
 The [NeuroSky MindWave](http://www.neurosky.com/Products/MindWave.aspx) is a headset that can be used e.g. to rate your level of relaxation and focus during a meditation session using a [custom app](https://github.com/zenobase/zenobase-mindlog).
 

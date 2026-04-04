@@ -1,5 +1,5 @@
 ---
-title: "How to use the Trackthisforme app to collect data for zenobase.com."
+title: "Trackthisforme"
 date: 2014-12-06 08:00:00
 tags:
   - screencast

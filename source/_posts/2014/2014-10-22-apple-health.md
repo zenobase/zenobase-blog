@@ -7,7 +7,7 @@ tags:
 alias: post/100624681047/index.html
 ---
 
-![](tumblr_inline_ndtjxxZ6nx1rqupev.png)
+![](ndtjxxZ6nx1rqupev.png)
 
 [Apple Health](https://www.apple.com/ios/whats-new/health/) stores health and fitness data from different apps in a single place on iOS 8. It’s already supported by several dozen popular apps. But how can you get hold of this data to do your own analyses? The options are:
 
@@ -31,7 +31,7 @@ After installing the required modules with `npm install sax saxpath xml2js momen
 
 This file can be imported into Zenobase: Create a new bucket using the default template, chose _Import_ from the drop-down menu, and once the data is imported, add and remove widgets until the dashboard looks [something like this](https://zenobase.com/#/buckets/h0h8999mmb/):
 
-![Dashboard](tumblr_inline_ndthc4XyD71rqupev.png)
+![Dashboard](ndthc4XyD71rqupev.png)
 
 Have questions about importing other kinds of data? You can reach us at [@zenobase](https://twitter.com/zenobase), or through [this form](https://zenobase.uservoice.com/).
 

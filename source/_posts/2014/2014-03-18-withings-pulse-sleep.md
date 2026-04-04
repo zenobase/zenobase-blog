@@ -12,4 +12,4 @@ Have a [Withings Pulse](http://www.withings.com/pulse)? In addition to step coun
 
 To get started, chose the _Sleep (Withings)_ template when creating a new bucket, or add a _withings-sleep_ task to an existing bucket.
 
-![Dashboard](tumblr_inline_n2nrjceQiC1rqupev.png)
+![Dashboard](n2nrjceQiC1rqupev.png)

@@ -21,6 +21,6 @@ Run this script with `node drink_convert.js < drink.csv > drink.json` to get thi
 
 The `drink.json` file can be imported into any existing bucket. You might want to add some widgets, e.g. to show the total volume drunk over time, or the average volume drunk by day of week.
 
-![](tumblr_inline_n4v825A2AG1rqupev.png)
+![](n4v825A2AG1rqupev.png)
 
 To adapt the script to your data, check out the [list of supported fields and units in the API docs](https://zenobase.com/#/api/create-event). If you need any help, please [get in touch](mailto:support@zenobase.com)!

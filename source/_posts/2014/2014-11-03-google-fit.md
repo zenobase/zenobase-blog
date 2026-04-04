@@ -16,7 +16,7 @@ So what data can you import from Google Fit into Zenobase right now, and how doe
 
 We added a _google-activities_ task that lets you choose to retrieve either explicitly recorded exercise sessions, or automatically detected activities (which includes periods of “not moving” and “in vehicle”). To this, we add consolidated step counts and distances, as well as a starting location based on the platform’s location stream. We also look for any streams that have speed averages, calories expended or heart rate averages for the period of each activity.
 
-![](tumblr_inline_neh7v4eJp11rqupev.png) Google Fit also supports data streams with custom data types. Handling this in a flexible manner would require more configuration, which we might decide to handle in future [similar to how we deal with the Reporter app](http://blog.zenobase.com/post/77238240850).
+![](neh7v4eJp11rqupev.png) Google Fit also supports data streams with custom data types. Handling this in a flexible manner would require more configuration, which we might decide to handle in future [similar to how we deal with the Reporter app](http://blog.zenobase.com/post/77238240850).
 
 We don’t have any plans to support writing data back to Google Fit, as a lot of data stored in Zenobase can’t easily be mapped to Google Fit’s numbers-only data model. However, if you are a developer, you can use [our API](https://zenobase.com/#/api/) to implement a custom solution that works for you.
 

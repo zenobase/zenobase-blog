@@ -1,5 +1,5 @@
 ---
-title: "Do I sleep longer after walking a lot? Combining data from a BodyMedia FIT (sleep) and a Fitbit One (steps) on zenobase.com."
+title: "Walking and Sleep"
 date: 2014-03-28 07:45:57
 tags:
   - sleep

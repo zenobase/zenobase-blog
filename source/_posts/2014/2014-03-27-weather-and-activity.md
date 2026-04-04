@@ -1,5 +1,5 @@
 ---
-title: "Combining data from a Withings Pulse, the Moves app and Forecast.io on zenobase.com to answer some important questions&hellip;"
+title: "Weather and Activity"
 date: 2014-03-27 06:39:00
 tags:
   - dashboard

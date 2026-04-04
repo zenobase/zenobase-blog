@@ -8,7 +8,7 @@ alias: post/77238240850/index.html
 
 Fortunately, the app can be set up to export data, and you can now import the data into [Zenobase](https://zenobase.com/) automatically.
 
-![](tumblr_inline_n19wv7PqZt1rqupev.png)
+![](n19wv7PqZt1rqupev.png)
 
 Here’s how:
 

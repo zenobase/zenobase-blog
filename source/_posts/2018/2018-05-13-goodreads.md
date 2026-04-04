@@ -6,7 +6,7 @@ alias: post/173867032012/index.html
 
 In addition to tracking [what music you listened to](http://blog.zenobase.com/post/116631942432) and what movies you watched, you can now import your reading list from [Goodreads](https://www.goodreads.com/) into Zenobase.
 
-![](tumblr_inline_p8ogno4Dqb1rqupev_540.png)
+![](p8ogno4Dqb1rqupev_540.png)
 
 The data includes:
 

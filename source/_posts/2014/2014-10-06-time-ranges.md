@@ -8,18 +8,18 @@ Events in Zenobase don’t have an explicit begin and end field, just a single t
 
 **A.** _Set the begin as the timestamp, and store the duration._ This is the most obvious approach, but it has one drawback: You won’t be able to filter or aggregate data using the end time (because of time zones and daylight savings times, the local end time can’t be calculated reliably simply by adding the duration to the begin time).
 
-![](tumblr_inline_nd1nkj9bEg1rqupev.png)
+![](nd1nkj9bEg1rqupev.png)
 
 **B.** _Record two timestamps._ Then when filtering or aggregating events, you can specify if you want to use the lower timestamp (`timestamp$min`) or the higher timestamp (`timestamp$max`). You may still want to record an explicit duration as well, to filter or aggregate on the duration.
 
-![](tumblr_inline_nd1nkqVJWR1rqupev.png)
+![](nd1nkqVJWR1rqupev.png)
 
 Being able to aggregate on the end timestamp is especially useful when looking at sleep data: Consider this plot of average sleep durations by day, based on the begin timestamp (which sometimes falls before, and sometimes after midnight):
 
-![](tumblr_inline_nd1olxCWmH1rqupev.png)
+![](nd1olxCWmH1rqupev.png)
 
 Here is the same plot again, but this time using the end timestamps:
 
-![](tumblr_inline_nd1on12hVw1rqupev.png)
+![](nd1on12hVw1rqupev.png)
 
 This is why the second approach is now being used by default when importing sleep data from services like Fitbit or Jawbone. Does this make life easier for you? Let us know!

@@ -1,5 +1,5 @@
 ---
-title: "Using data from Foursquare and a Withings Pulse to determine if working out or swimming has a bigger effect on resting heart rate. Note the use of the new timeline filtering feature."
+title: "Exercise and Heart Rate"
 date: 2014-04-15 07:26:37
 tags:
   - heart rate

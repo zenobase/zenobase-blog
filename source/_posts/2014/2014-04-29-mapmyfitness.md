@@ -11,4 +11,4 @@ You can now analyze data from the [MapMyFitness](http://mapmyfitness.com/) famil
 
 To get started, chose the _Activities (MapMyFitness)_ template when creating a new bucket, or add a _mapmyfitness-activities_ task to an existing bucket. Then use the forecast task to add weather data, or create views to combine with data from other buckets…
 
-![](tumblr_inline_n4s07fKkRb1rqupev.png)
+![](n4s07fKkRb1rqupev.png)

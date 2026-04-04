@@ -1,5 +1,5 @@
 ---
-title: "Does spending time in front of a bright screen before going to bed affect my sleep? Combining data from RescueTime and a Bodymedia FIT."
+title: "Screen Time and Sleep"
 date: 2014-05-23 06:35:56
 tags:
   - quantified self

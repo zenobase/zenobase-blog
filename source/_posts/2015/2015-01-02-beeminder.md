@@ -16,11 +16,11 @@ Beeminder integrates with a few services like Fitbit and even Zapier, but we use
 
 **3.** Add a “beeminder” task to the bucket. Enter the name of the Beeminder goal, whether to count events (the default) or add up the values from a field, and whether to filter the data. For our gym example, we choose the “duration” field, and filter on “tag:Gym”.
 
-![Create Task Dialog](tumblr_inline_nhji96TfMH1rqupev.png) Zenobase will now update your goal whenever the bucket is refreshed (buckets can be set to refresh automatically, if you are on a paid plan). Make sure beeminder is the last task in the list.
+![Create Task Dialog](nhji96TfMH1rqupev.png) Zenobase will now update your goal whenever the bucket is refreshed (buckets can be set to refresh automatically, if you are on a paid plan). Make sure beeminder is the last task in the list.
 
 Here’s our “gym” goal after it has been updated from Zenobase:
 
-![Pretty Lines](tumblr_inline_nhji4gSAXD1rqupev.png) Other goals that could be automated via Zenobase:
+![Pretty Lines](nhji4gSAXD1rqupev.png) Other goals that could be automated via Zenobase:
 
 *   Go to the gym at least 3x a week, only counting visits that last at least 1h (Moves app; filter on “duration:\[1h..)”).
 *   Don’t spend more than half an hour per day in coffee shops, unless traveling (Moves app; report duration, filter on e.g. “location:47.443,-122.648,47.767,-121.998”).

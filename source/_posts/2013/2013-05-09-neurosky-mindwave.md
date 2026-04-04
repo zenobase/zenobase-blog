@@ -1,9 +1,5 @@
 ---
-title: "This Android app records your state of mind using a NeuroSky MindWave headset.
-
-Even if you aren&rsquo;t interested in having your mind read, this app shows how to authenticate with Zenobase using OAuth2, and post data on behalf of a user through the API.
-
-Download the app or browse the source code."
+title: "NeuroSky MindWave"
 date: 2013-05-09 16:19:36
 tags:
   - api
@@ -12,7 +8,7 @@ tags:
 alias: post/50018636800/index.html
 ---
 
-![](tumblr_mmjhcoj8gC1rxsws5o1_250.png)
+![](mmjhcoj8gC1rxsws5o1_250.png)
 
 This Android app records your state of mind using a [NeuroSky MindWave](http://neurosky.com/Products/MindWave.aspx) headset.
 

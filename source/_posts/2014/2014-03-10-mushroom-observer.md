@@ -1,5 +1,5 @@
 ---
-title: "Exploring data from the Mushroom Observer with Zenobase. This dashboard is public here."
+title: "Mushroom Observer"
 date: 2014-03-10 17:28:00
 tags:
   - dashboard

@@ -1,5 +1,5 @@
 ---
-title: "Exploring some data from Foursquare&hellip; Does frequenting bakeries make me gain weight?"
+title: "Bakeries and Weight"
 date: 2014-03-15 06:14:00
 tags:
   - dashboard

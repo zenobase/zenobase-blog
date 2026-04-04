@@ -12,4 +12,4 @@ Azumio’s [Instant Heart Rate](http://www.azumio.com/apps/heart-rate/) app lets
 
 If you wanted to use your heart rate measurements with other data you have in Zenobase (e.g. to see how your resting heart rate correlates with sleep or exercise), and you are on Android, you can connect the Instant Heart Rate app to Google Fit, and import the data into Zenobase using the _google-cardio_ task.
 
-![](tumblr_inline_nifqdrqRsG1rqupev.png) Caveats: Azumio reports the measurement as a time range, with a begin that is one hour prior to the actual measurement. Also, the app sometimes forgets to send data to Google Fit, and needs to be reconnected.
+![](nifqdrqRsG1rqupev.png) Caveats: Azumio reports the measurement as a time range, with a begin that is one hour prior to the actual measurement. Also, the app sometimes forgets to send data to Google Fit, and needs to be reconnected.

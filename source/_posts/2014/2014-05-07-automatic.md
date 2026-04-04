@@ -14,4 +14,4 @@ You can now connect this service to [zenobase.com](https://zenobase.com/); to ge
 
 If you don’t have an Automatic yet (and you’re fast enough), you can [get one here for $20 off](https://www.automatic.com/order/?ref=ERIC685).
 
-![](tumblr_inline_n5812334Ba1rqupev.png)
+![](n5812334Ba1rqupev.png)

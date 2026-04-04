@@ -1,5 +1,5 @@
 ---
-title: "Here&rsquo;s how you can use zenobase.com to compare and correlate data from two sources, e.g. step counts from Fitbit and BodyMedia."
+title: "Comparing Data Sources"
 date: 2015-02-13 08:15:20
 tags:
   - screencast

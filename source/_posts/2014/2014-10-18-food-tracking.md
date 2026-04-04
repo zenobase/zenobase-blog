@@ -11,7 +11,7 @@ You can now set up a task on [zenobase.com](https://zenobase.com/) to get the to
 
 The data from Jawbone UP is particularly interesting, as it includes a timestamp for each meal, so you can check not just if how much you eat, but also if when you eat makes a difference!
 
-![](tumblr_inline_ndm55igCcM1rqupev.png)
+![](ndm55igCcM1rqupev.png)
 
 Are there any other services that we should consider? Are you running an experiment where you need to track not just calories, but also specific nutrients like protein and fat? [Let us know!](mailto:support@zenobase.com)
 
