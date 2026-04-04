@@ -33,8 +33,6 @@ This file can be imported into Zenobase: Create a new bucket using the default t
 
 ![Dashboard](ndthc4XyD71rqupev.png)
 
-Have questions about importing other kinds of data? You can reach us at [@zenobase](https://twitter.com/zenobase), or through [this form](https://zenobase.uservoice.com/).
-
 **Credits:** Thanks to [@eramirez](https://twitter.com/eramirez) for providing us with sample data for testing!
 
 .gist {width:500px !important;} .gist-file .gist-data {max-height: 500px;max-width: 500px;}

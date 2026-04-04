@@ -10,4 +10,4 @@ With the addition of support for importing sleep and step data from [Jawbone UP]
 
 ![](ncu4dwzC4l1rqupev.png)
 
-You can of course still [suggest additional data sources here](http://zenobase.uservoice.com/), and don’t forget that with a bit of coding, you can write your own integrations as well!
+You can of course still suggest additional data sources, and don’t forget that with a bit of coding, you can write your own integrations as well!
