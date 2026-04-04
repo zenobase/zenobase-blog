@@ -1,8 +1,9 @@
 extends partial/base
 
 block header
-    header.header-section
-        .intro-header.no-img
+    .page-logo.text-center
+        a(href=url_for())
+            img.avatar-img(src=url_for("/logo.png"), alt="Zenobase", width="50", height="50")
 
 block content
     .container
@@ -16,14 +17,24 @@ block content
                                 a.badge(href="#"+tag.name, rel=tag.length, style="font-size: 16px; padding: 8px; margin: 5px 5px 5px 5px;")= tag.name
                     - })
 
-                - site.tags.map(function(tag) {  
+                - site.tags.map(function(tag) {
                     if tag.posts.length > 0
-                        ul.archive-list
-                            span.fa.fa-tag.listing-seperator(id=tag.name, style="font-size: 1.17em;")
-                            span(style="font-size: 1.5em; font-weight: bold; margin-left: 5px;")= tag.name
-                            - tag.posts.map(function(post) {
-                                li.col-lg-offset-1.col-md-offset-1
-                                    span.post-meta= full_date(post.date, 'MMM D')
-                                    a.post-title(href=url_for(post.path))= post.title
+                        h2(id=tag.name)
+                            span.fa.fa-tag(style="font-size: 0.8em;")
+                            |  #{tag.name}
+                        .archive-list
+                            - var prev_year = 0;
+                            - tag.posts.sort('date', -1).each(function(post) {
+                            - var current_year = full_date(post.date, 'YYYY')-0;
+                            .archive-group
+                                if current_year !== prev_year
+                                    .archive-year= current_year
+                                else
+                                    .archive-year
+                                - prev_year=current_year;
+                                .archive-posts
+                                    .archive-post
+                                        a.post-title(href=url_for(post.path))= post.title
                             - })
-                - }) 
+                            - prev_year = 0;
+                - })

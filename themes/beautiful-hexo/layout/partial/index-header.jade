@@ -1,18 +1,9 @@
-- var display_images = theme.header.bigimgs && theme.header.bigimgs.length > 0
-
-if display_images
-
-  - var attrs = {'data-num-img': theme.header.bigimgs.length}
-  - theme.header.bigimgs.forEach(function(val, idx) { var c = idx+1; attrs["data-img-src-"+c]=url_for(val.src); attrs["data-img-desc-"+c]=val.desc;})
-  #header-big-imgs&attributes(attrs)
-
-header.header-section(class={ 'has-img' : display_images })
-  .intro-header(class=display_images? 'big-img' : 'no-img')
-    .container
-      .row
-        .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
-            .page-heading
-              h1!= theme.header.title
-              hr.small
-              span.page-subheading!= theme.header.motto
-    span.img-desc
+.hero-unit
+  .hero-overlay
+    .hero-content.text-center
+      a(href="https://zenobase.com")
+        img.hero-logo(src=url_for("/img/logo_560x144.png"), alt="Zenobase", width="280", height="72")
+      h1.hero-title!= theme.header.title
+      p.hero-subtitle!= theme.header.motto
+      .hero-cta
+        a.hero-btn(href="https://zenobase.com") Open App #[span.hero-btn-arrow &rarr;]

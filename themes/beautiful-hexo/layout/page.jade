@@ -1,13 +1,9 @@
 extends partial/base
 
 block header
-    header.header-section
-        .intro-header.no-img
-            .page-heading
-                h1!= page.title
-                if page.subtitle
-                    hr.small
-                    span.page-subheading!= page.subtitle
+    .page-logo.text-center
+        a(href=url_for())
+            img.avatar-img(src=url_for("/logo.png"), alt="Zenobase", width="50", height="50")
 
 block content
     .container

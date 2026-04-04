@@ -4,16 +4,17 @@ include partial/post-meta
 
 
 block header
-    header.header-section
-        .intro-header.no-img
-            .container
-                .row
-                    .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
-                        .post-heading
-                            h1= page.title
-                            if page.subtitle
-                                h2.post-subheading= page.subtitle
-                            +post_meta(page.date, page.tags)
+    .page-logo.text-center
+        a(href=url_for())
+            img.avatar-img(src=url_for("/logo.png"), alt="Zenobase", width="50", height="50")
+    .container
+        .row
+            .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
+                .post-heading
+                    h1= page.title
+                    if page.subtitle
+                        h2.post-subheading= page.subtitle
+                    +post_meta(page.date, page.tags)
 
 block content
     .container
@@ -21,14 +22,6 @@ block content
             .col-lg-8.col-lg-offset-2.col-md-10.col-md-offset-1
                 article(role="main", class="blog-post")
                     != page.content
-                ul.pager.blog-pager
-                    if page.prev
-                        li.previous
-                            a(href=url_for(page.prev.path), data-toggle="tooltip", data-placement="top", title=page.prev.title)= __('prev_post')
-                    if page.next
-                        li.next
-                            a(href=url_for(page.next.path), data-toggle="tooltip", data-placement="top", title=page.next.title)= __('next_post')
-
                 include partial/comment
 
 
