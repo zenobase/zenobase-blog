@@ -10,6 +10,6 @@ alias: post/80021614852/index.html
 
 Have a [Withings Pulse](http://www.withings.com/pulse)? In addition to step counts and heart rate, you can now also use your sleep data in Zenobase.
 
-To get started, chose the _Sleep (Withings)_ template when creating a new bucket, or add a _withings-sleep_ task to an existing bucket.
+To get started, choose the _Sleep (Withings)_ template when creating a new bucket, or add a _withings-sleep_ task to an existing bucket.
 
 ![Dashboard](n2nrjceQiC1rqupev.png)

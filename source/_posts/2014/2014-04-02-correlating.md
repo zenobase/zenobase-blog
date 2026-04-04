@@ -39,7 +39,7 @@ To **restrict the data to certain locations**, use a “map” widget. If your d
 
 To correlate **data from two buckets**, create a _view_ that contains the two buckets–either complete, or filtered.
 
-To correlate the **number of events** rather than an aggregate value of a field, chose the “timestamp” field and “count”.
+To correlate the **number of events** rather than an aggregate value of a field, choose the “timestamp” field and “count”.
 
 If correlating **values from the same field**, set a different _filter_ for x and y, e.g. “tag:Gym” and “tag:Bakery”.
 

@@ -29,7 +29,7 @@ Following is the script weâ€™ll use to process this file, and output JSON. Youâ€
 
 After installing the required modules with `npm install sax saxpath xml2js moment`, running `node export.js export.json` outputs this file:
 
-This file can be imported into Zenobase: Create a new bucket using the default template, chose _Import_ from the drop-down menu, and once the data is imported, add and remove widgets until the dashboard looks [something like this](https://zenobase.com/#/buckets/h0h8999mmb/):
+This file can be imported into Zenobase: Create a new bucket using the default template, choose _Import_ from the drop-down menu, and once the data is imported, add and remove widgets until the dashboard looks [something like this](https://zenobase.com/#/buckets/h0h8999mmb/):
 
 ![Dashboard](ndthc4XyD71rqupev.png)
 

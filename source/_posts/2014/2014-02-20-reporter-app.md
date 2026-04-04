@@ -18,4 +18,4 @@ Here’s how:
 
 You should now see one event in Zenobase for each response. Each event has a timestamp, a location, the average noise level (0dB is the loudest sound that the device can record, negative values are more quiet), temperature, air pressure, and of course the responses, either as a rating or as a count (numeric values), as tags (multiple choice values), or as notes (free text). Hit refresh to get new data the next day.
 
-Now you can edit, filter and correlate your data: Is their a significant correlation between air pressure and back pain? Is my mood better when I’m in or when I’m out of town? Let us know what you find–or if you run into trouble or have suggestions!
+Now you can edit, filter and correlate your data: Is there a significant correlation between air pressure and back pain? Is my mood better when I’m in or when I’m out of town? Let us know what you find–or if you run into trouble or have suggestions!

@@ -9,7 +9,7 @@ alias: post/100278437162/index.html
 
 You can now set up a task on [zenobase.com](https://zenobase.com/) to get the total number of calories consumed from Fitbit, as well as individual meals from Jawbone UP.
 
-The data from Jawbone UP is particularly interesting, as it includes a timestamp for each meal, so you can check not just if how much you eat, but also if when you eat makes a difference!
+The data from Jawbone UP is particularly interesting, as it includes a timestamp for each meal, so you can check not just how much you eat, but also if when you eat makes a difference!
 
 ![](ndm55igCcM1rqupev.png)
 

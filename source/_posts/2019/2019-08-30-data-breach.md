@@ -6,7 +6,7 @@ alias: post/187378238312/index.html
 
 Earlier this week, we discovered that some of our internal data could be accessed by anyone who knew where to look. This likely happened (ironically) during a move to a more secure setup.
 
-Other than contacting our users, the most urgent damage control task was to ensure that tokens issued by third-party services granting access to their user’s data were revoked as soon as possible.
+Other than contacting our users, the most urgent damage control task was to ensure that tokens issued by third-party services granting access to their users’ data were revoked as soon as possible.
 
 Following is the status of every service we integrate with. Services in (brackets) use expiring tokens, so are less critical (since the code required to refresh these tokens was not exposed). Highlighted services remain outstanding…
 
