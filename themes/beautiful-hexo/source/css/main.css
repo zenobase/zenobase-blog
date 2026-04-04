@@ -113,7 +113,7 @@ img {
 
 .hero-overlay {
   background: rgba(255, 255, 255, 0.5);
-  padding: 80px 24px 150px;
+  padding: 80px 24px 114px;
 }
 
 .hero-content {
@@ -122,7 +122,7 @@ img {
 }
 
 .hero-logo {
-  margin-bottom: 24px;
+  margin-bottom: 60px;
 }
 
 .hero-title {
