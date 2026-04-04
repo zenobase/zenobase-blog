@@ -2,9 +2,8 @@
 title: "Mood Tracking"
 date: 2015-04-29 10:38:05
 tags:
-  - mood
-  - jawbone
-  - moodpanda
+  - data-source
+  - health
 alias: post/117679495172/index.html
 ---
 

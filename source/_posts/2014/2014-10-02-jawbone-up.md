@@ -2,7 +2,7 @@
 title: "Jawbone UP"
 date: 2014-10-02 20:58:00
 tags:
-  - jawbone
+  - data-source
 alias: post/98997588672/index.html
 ---
 

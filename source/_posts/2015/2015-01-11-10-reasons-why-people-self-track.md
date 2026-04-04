@@ -2,7 +2,7 @@
 title: "10 Reasons Why People Self-Track"
 date: 2015-01-11 21:09:57
 tags:
-  - quantified self
+  - quantified-self
 alias: post/107823078262/index.html
 ---
 

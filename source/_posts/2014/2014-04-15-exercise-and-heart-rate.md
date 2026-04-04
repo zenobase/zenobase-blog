@@ -2,9 +2,8 @@
 title: "Exercise and Heart Rate"
 date: 2014-04-15 07:26:37
 tags:
-  - heart rate
-  - foursquare
-  - withings
+  - health
+  - analysis
 alias: post/82771955147/index.html
 ---
 

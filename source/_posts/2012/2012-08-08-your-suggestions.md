@@ -1,6 +1,8 @@
 ---
 title: "Your Suggestions"
 date: 2012-08-08 01:56:00
+tags:
+  - announcements
 alias: post/28950576805/index.html
 ---
 

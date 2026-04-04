@@ -2,10 +2,9 @@
 title: "Durations"
 date: 2020-01-07 18:21:10
 tags:
-  - app
   - android
   - ios
-  - quantified self
+  - quantified-self
 alias: post/190124235177/index.html
 ---
 

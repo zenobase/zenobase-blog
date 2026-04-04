@@ -2,7 +2,8 @@
 title: "Google Fit"
 date: 2014-11-03 18:48:00
 tags:
-  - google fit
+  - data-source
+  - android
 alias: post/101689041097/index.html
 ---
 

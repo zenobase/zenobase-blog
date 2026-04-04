@@ -1,6 +1,8 @@
 ---
 title: "Plot Widget"
 date: 2012-08-21 05:29:00
+tags:
+  - announcements
 alias: post/29881899474/index.html
 ---
 

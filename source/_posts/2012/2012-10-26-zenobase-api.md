@@ -1,6 +1,9 @@
 ---
 title: "Zenobase API"
 date: 2012-10-26 02:41:00
+tags:
+  - announcements
+  - api
 alias: post/34338606275/index.html
 ---
 

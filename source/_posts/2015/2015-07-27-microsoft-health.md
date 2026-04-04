@@ -2,8 +2,8 @@
 title: "Microsoft Health"
 date: 2015-07-27 03:47:53
 tags:
-  - microsoft band
-  - microsoft health
+  - data-source
+  - health
 alias: post/125139509557/index.html
 ---
 

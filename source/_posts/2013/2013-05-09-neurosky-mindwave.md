@@ -2,9 +2,9 @@
 title: "NeuroSky MindWave"
 date: 2013-05-09 16:19:36
 tags:
-  - api
   - android
-  - meditation
+  - api
+  - health
 alias: post/50018636800/index.html
 ---
 

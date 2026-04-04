@@ -1,6 +1,8 @@
 ---
 title: "Map Widget"
 date: 2012-11-17 02:01:23
+tags:
+  - announcements
 alias: post/35879920658/index.html
 ---
 

@@ -2,7 +2,8 @@
 title: "Beeminder"
 date: 2015-01-02 08:35:00
 tags:
-  - incentives
+  - data-source
+  - quantified-self
 alias: post/106888206432/index.html
 ---
 

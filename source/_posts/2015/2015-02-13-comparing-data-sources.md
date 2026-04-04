@@ -2,7 +2,7 @@
 title: "Comparing Data Sources"
 date: 2015-02-13 08:15:20
 tags:
-  - screencast
+  - analysis
 alias: post/110883722187/index.html
 ---
 

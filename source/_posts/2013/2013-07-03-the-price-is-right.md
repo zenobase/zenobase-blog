@@ -2,7 +2,7 @@
 title: "The price is right?"
 date: 2013-07-03 01:14:00
 tags:
-  - pricing
+  - announcements
 alias: post/54474333268/index.html
 ---
 

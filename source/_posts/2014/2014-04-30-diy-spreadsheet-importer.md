@@ -2,10 +2,8 @@
 title: "DIY Spreadsheet Importer"
 date: 2014-04-30 22:46:00
 tags:
-  - json
-  - javascript
-  - csv
-  - API
+  - data-source
+  - api
 alias: post/84362516897/index.html
 ---
 

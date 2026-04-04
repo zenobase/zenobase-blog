@@ -3,6 +3,7 @@ title: "Programmatic Uploads"
 date: 2014-10-03 19:11:59
 tags:
   - api
+  - data-source
 alias: post/99071925137/index.html
 ---
 

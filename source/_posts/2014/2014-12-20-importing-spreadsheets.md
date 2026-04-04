@@ -2,7 +2,7 @@
 title: "Importing Spreadsheets"
 date: 2014-12-20 15:02:00
 tags:
-  - csv
+  - data-source
 alias: post/105690532097/index.html
 ---
 

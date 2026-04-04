@@ -1,6 +1,8 @@
 ---
 title: "Timestamp Entry"
 date: 2012-10-02 00:43:36
+tags:
+  - announcements
 alias: post/32704104305/index.html
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: "Foursquare, Fitbit, Withings"
 date: 2012-12-04 06:35:00
+tags:
+  - data-source
 alias: post/37174140979/index.html
 ---
 

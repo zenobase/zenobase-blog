@@ -2,8 +2,8 @@
 title: "Food Tracking"
 date: 2014-10-18 00:08:00
 tags:
-  - fitbit
-  - jawbone
+  - data-source
+  - health
 alias: post/100278437162/index.html
 ---
 

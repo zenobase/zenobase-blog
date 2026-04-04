@@ -2,8 +2,8 @@
 title: "MapMyFitness"
 date: 2014-04-29 04:54:46
 tags:
-  - dashboard
-  - mapmyfitness
+  - data-source
+  - analysis
 alias: post/84199361962/index.html
 ---
 

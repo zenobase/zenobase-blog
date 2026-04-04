@@ -2,9 +2,9 @@
 title: "Screen Time and Sleep"
 date: 2014-05-23 06:35:56
 tags:
-  - quantified self
-  - sleep
-  - light
+  - health
+  - analysis
+  - quantified-self
 alias: post/86577536882/index.html
 ---
 

@@ -2,9 +2,8 @@
 title: "Data Sonification"
 date: 2016-04-01 13:00:36
 tags:
-  - quantified self
-  - iot
-  - data visualization
+  - analysis
+  - quantified-self
 alias: post/142066629972/index.html
 ---
 

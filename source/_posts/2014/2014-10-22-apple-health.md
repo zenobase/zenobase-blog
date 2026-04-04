@@ -2,8 +2,9 @@
 title: "Apple Health"
 date: 2014-10-22 00:07:00
 tags:
+  - data-source
+  - ios
   - api
-  - healthkit
 alias: post/100624681047/index.html
 ---
 

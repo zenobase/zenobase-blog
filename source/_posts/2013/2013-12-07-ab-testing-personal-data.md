@@ -2,9 +2,7 @@
 title: "A/B Testing Personal Data"
 date: 2013-12-07 06:20:00
 tags:
-  - dashboard
-  - a/b testing
-  - statistics
+  - analysis
 alias: post/69245711800/index.html
 ---
 

@@ -2,9 +2,9 @@
 title: "SleepCloud"
 date: 2014-04-22 06:56:00
 tags:
-  - sleep as android
-  - sleep
-  - dashboard
+  - health
+  - data-source
+  - analysis
 alias: post/83496101555/index.html
 ---
 

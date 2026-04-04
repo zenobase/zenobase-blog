@@ -2,9 +2,8 @@
 title: "Automatic"
 date: 2014-05-07 20:41:00
 tags:
-  - dashboard
-  - automatic
   - iot
+  - analysis
 alias: post/85051519482/index.html
 ---
 

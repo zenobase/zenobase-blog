@@ -2,9 +2,8 @@
 title: "Azumio Instant Heart Rate"
 date: 2015-01-19 17:41:46
 tags:
-  - azumio
-  - heart rate
-  - Google Fit
+  - data-source
+  - health
 alias: post/108559037737/index.html
 ---
 

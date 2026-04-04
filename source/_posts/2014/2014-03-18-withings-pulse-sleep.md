@@ -2,9 +2,9 @@
 title: "Withings Pulse & Sleep"
 date: 2014-03-18 08:01:00
 tags:
-  - dashboard
-  - withings
-  - sleep
+  - health
+  - data-source
+  - analysis
 alias: post/80021614852/index.html
 ---
 

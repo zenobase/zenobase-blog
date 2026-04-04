@@ -1,6 +1,8 @@
 ---
 title: "Thanksgiving, a time for sharing... data?"
 date: 2013-11-28 07:03:37
+tags:
+  - announcements
 alias: post/68345684934/index.html
 ---
 

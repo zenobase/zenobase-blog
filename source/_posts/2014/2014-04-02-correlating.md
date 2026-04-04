@@ -2,8 +2,7 @@
 title: "Correlating"
 date: 2014-04-02 16:51:00
 tags:
-  - statistics
-  - correlation
+  - analysis
 alias: post/81497604762/index.html
 ---
 

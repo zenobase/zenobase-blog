@@ -2,11 +2,9 @@
 title: "Zenobase Cardio"
 date: 2013-12-26 19:27:00
 tags:
-  - api
-  - app
   - android
-  - heart rate
-  - hrv
+  - api
+  - health
 alias: post/71224655989/index.html
 ---
 

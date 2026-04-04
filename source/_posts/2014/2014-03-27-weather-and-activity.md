@@ -2,9 +2,8 @@
 title: "Weather and Activity"
 date: 2014-03-27 06:39:00
 tags:
-  - dashboard
-  - sleep
-  - full moon
+  - analysis
+  - health
 alias: post/80859472034/index.html
 ---
 

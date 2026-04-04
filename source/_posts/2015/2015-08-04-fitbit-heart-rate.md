@@ -2,8 +2,8 @@
 title: "Fitbit Heart Rate"
 date: 2015-08-04 07:49:22
 tags:
-  - fitbit
-  - heart rate
+  - data-source
+  - health
 alias: post/125829000252/index.html
 ---
 

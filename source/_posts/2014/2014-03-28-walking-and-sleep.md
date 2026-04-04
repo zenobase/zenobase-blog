@@ -2,10 +2,7 @@
 title: "Walking and Sleep"
 date: 2014-03-28 07:45:57
 tags:
-  - sleep
-  - exercise
-  - bodymedia
-  - fitbit
+  - health
 alias: post/80959522548/index.html
 ---
 

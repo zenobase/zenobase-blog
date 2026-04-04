@@ -2,8 +2,7 @@
 title: "Our Terms, Your Privacy"
 date: 2013-07-03 01:30:18
 tags:
-  - terms of service
-  - privacy
+  - announcements
 alias: post/54475412424/index.html
 ---
 

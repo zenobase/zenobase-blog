@@ -2,9 +2,8 @@
 title: "RescueTime"
 date: 2014-03-11 07:36:00
 tags:
-  - dashboard
-  - rescuetime
-  - productivity
+  - data-source
+  - analysis
 alias: post/79247445112/index.html
 ---
 

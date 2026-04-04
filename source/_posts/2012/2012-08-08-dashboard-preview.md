@@ -1,6 +1,8 @@
 ---
 title: "Dashboard Preview"
 date: 2012-08-08 01:28:23
+tags:
+  - announcements
 alias: post/28948627861/index.html
 ---
 

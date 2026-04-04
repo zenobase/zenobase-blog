@@ -2,8 +2,8 @@
 title: "Mushroom Observer"
 date: 2014-03-10 17:28:00
 tags:
-  - dashboard
-  - mushrooms
+  - data-source
+  - analysis
 alias: post/79176719922/index.html
 ---
 

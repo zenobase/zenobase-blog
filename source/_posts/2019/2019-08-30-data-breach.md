@@ -1,6 +1,8 @@
 ---
 title: "Data Breach"
 date: 2019-08-30 18:25:49
+tags:
+  - announcements
 alias: post/187378238312/index.html
 ---
 
