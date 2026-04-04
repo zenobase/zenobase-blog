@@ -5,7 +5,7 @@ favicon: /logo.png
 
 header:
     title: "Got data? Get answers."
-    motto: "Capture and analyze your personal data."
+    motto: "Collect and analyze your data."
 
 rss: /atom.xml
 googlefonts:
