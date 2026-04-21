@@ -22,14 +22,16 @@ jobs:
         with:
           submodules: true
 
+      - uses: pnpm/action-setup@v5
+
       - uses: actions/setup-node@v6
         with:
-          node-version: '24'
-          cache: 'npm'
+          node-version-file: .nvmrc
+          cache: pnpm
 
-      - run: npm ci
+      - run: pnpm install --frozen-lockfile
 
-      - run: npx hexo generate
+      - run: pnpm hexo generate
 
       - uses: actions/upload-pages-artifact@v4
         with:
