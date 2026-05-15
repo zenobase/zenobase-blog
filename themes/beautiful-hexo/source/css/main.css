@@ -18,6 +18,12 @@ h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
+h1 + ol, h1 + ul,
+h2 + ol, h2 + ul,
+h3 + ol, h3 + ul,
+h4 + ol, h4 + ul {
+  margin-top: 1.5em;
+}
 a {
   color: #008AFF;
 }
