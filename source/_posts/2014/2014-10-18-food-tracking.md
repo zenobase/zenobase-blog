@@ -13,6 +13,6 @@ The data from Jawbone UP is particularly interesting, as it includes a timestamp
 
 ![](ndm55igCcM1rqupev.png)
 
-Are there any other services that we should consider? Are you running an experiment where you need to track not just calories, but also specific nutrients like protein and fat? [Let us know!](mailto:support@zenobase.com)
+Are there any other services that we should consider? Are you running an experiment where you need to track not just calories, but also specific nutrients like protein and fat? [Let us know!](mailto:hello@zenobase.com)
 
 **Update:** You can now also get calories consumed stats via Google Fit, if you are using an app like [Lifesum](https://lifesum.com/).

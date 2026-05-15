@@ -11,4 +11,4 @@ Curious how your mood is affected by factors like sleep or exercise, and how you
 
 ![Jawbone UP](nnjeefFh8f1rqupev_540.png)![MoodPanda](nnjeeoJe8t1rqupev_540.png)
 
-If there are other mood tracking apps that you’d like us to support, [let us know](mailto:support@zenobase.com)!
+If there are other mood tracking apps that you’d like us to support, [let us know](mailto:hello@zenobase.com)!

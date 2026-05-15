@@ -17,4 +17,4 @@ As in our [previous post](http://blog.zenobase.com/post/84362516897), where we s
 
 Finally, here’s the script that will read data from a json file ([sample file](https://gist.github.com/ejain/94388d6e0a448e6de19f)), and upload it to the specified bucket:
 
-Need any help adapting this script to your use case? [Get in touch](mailto:support@zenobase.com)!
+Need any help adapting this script to your use case? [Get in touch](mailto:hello@zenobase.com)!

@@ -15,4 +15,4 @@ Zenobase can now get hourly productivity scores from [RescueTime](https://www.re
 
 ![](n29g8idg0u1rqupev.png)
 
-What questions do you want to ask, using this data? [Let us know!](mailto:info@zenobase.com)
+What questions do you want to ask, using this data? [Let us know!](mailto:hello@zenobase.com)

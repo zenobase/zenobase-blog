@@ -12,4 +12,4 @@ Zenobase now has a proper [terms of use and privacy policy](https://zenobase.com
 *   You can export your data any time, and have us delete all your data.
 *   We won’t change the terms without letting you know first.
 
-Sound fair? [Send us your questions and suggestions!](mailto:info@zenobase.com)
+Sound fair? [Send us your questions and suggestions!](mailto:hello@zenobase.com)

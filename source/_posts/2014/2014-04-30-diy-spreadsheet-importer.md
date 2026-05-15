@@ -21,4 +21,4 @@ The `drink.json` file can be imported into any existing bucket. You might want t
 
 ![](n4v825A2AG1rqupev.png)
 
-To adapt the script to your data, check out the [list of supported fields and units in the API docs](https://zenobase.com/#/api/create-event). If you need any help, please [get in touch](mailto:support@zenobase.com)!
+To adapt the script to your data, check out the [list of supported fields and units in the API docs](https://zenobase.com/#/api/create-event). If you need any help, please [get in touch](mailto:hello@zenobase.com)!

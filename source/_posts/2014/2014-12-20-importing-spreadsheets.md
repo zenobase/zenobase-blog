@@ -18,4 +18,4 @@ We now support importing custom data from spreadsheets in CSV format, in additio
 *   Multiple values in a single field are separated with semicolons, e.g. `foo;bar;baz`.
 *   Multiple nested values in single field are spread out over each column, e.g. 5dL and 1L are represented as `5;1,dL;L`.
 
-![](ngvxvfecBR1rqupev.png) If you have a spreadsheet that won’t import, or you’re not sure how to reformat it, [we’re here to help](mailto:support@zenobase.com).
+![](ngvxvfecBR1rqupev.png) If you have a spreadsheet that won’t import, or you’re not sure how to reformat it, [we’re here to help](mailto:hello@zenobase.com).

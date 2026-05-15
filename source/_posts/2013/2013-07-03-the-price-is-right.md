@@ -6,4 +6,4 @@ tags:
 alias: post/54474333268/index.html
 ---
 
-Zenobase is adding paid plans for people who want to be able to record larger amounts of data (like minute- or even second-resolution measurements). Does the [planned pricing](https://zenobase.com/#/pricing/) work for you? [Let us know!](mailto:info@zenobase.com)
+Zenobase is adding paid plans for people who want to be able to record larger amounts of data (like minute- or even second-resolution measurements). Does the [planned pricing](https://zenobase.com/#/pricing/) work for you? [Let us know!](mailto:hello@zenobase.com)

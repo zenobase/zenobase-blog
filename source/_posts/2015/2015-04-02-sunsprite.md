@@ -23,4 +23,4 @@ Here’s what your dashboard might look like:
 
 You can always add more data via the _Import_ menu item.
 
-If you want to correlate this data with data from another source, [we’ll be glad to show you how!](mailto:support@zenobase.com)
+If you want to correlate this data with data from another source, [we’ll be glad to show you how!](mailto:hello@zenobase.com)

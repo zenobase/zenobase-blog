@@ -30,4 +30,4 @@ Here’s our “gym” goal after it has been updated from Zenobase:
 *   Drive less than 10mi per day, excluding weekends ([Automatic](https://www.automatic.com/); report distance, filter on “timestamp.day\_of\_week:\[1..5\]”).
 *   Spend no more than 8h per day on the computer when the weather is nice ([RescueTime](https://www.rescuetime.com/) + Moves + Forecast; exercise for the reader)…
 
-Other ideas or need help? [Get in touch](mailto:support@zenobase.com), or [discuss on the Beeminder forum](http://forum.beeminder.com/t/zeeminding/368).
+Other ideas or need help? [Get in touch](mailto:hello@zenobase.com), or [discuss on the Beeminder forum](http://forum.beeminder.com/t/zeeminding/368).

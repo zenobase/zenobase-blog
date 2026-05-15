@@ -17,4 +17,4 @@ Some notes:
 *   We are not retrieving begin or end locations for activities, because doing so through the current API is too expensive.
 *   The current API doesn’t expose any of the [UV or GSR](https://www.microsoft.com/microsoft-band/en-us/support/hardware/sensors) data the Microsoft Band collects; hopefully that will be added soon.
 
-If you have any questions or suggestions, [let us know](mailto:support@zenobase.com)!
+If you have any questions or suggestions, [let us know](mailto:hello@zenobase.com)!
