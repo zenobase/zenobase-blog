@@ -35,7 +35,7 @@ if theme.comment.enable == "facebook"
     //- The two meta properties below works for sharing the post on Facebook
     //- Remember to set the image that you want at your post header (fb_og_image)!
     //- Or you can use your avatar image (or any other image).
-    meta(property="og:image", content=page.fb_og_image ? page.fb_og_image : href=url_for(theme.avatar))
+    meta(property="og:image", content=page.fb_og_image ? page.fb_og_image : url_for(theme.avatar))
     //- Remember to set the description that you want at your post header (fb_og_description)!
     //- Or you can use either config.description or theme.header.motto (It's up to you)
     meta(property="og:description", content=page.fb_og_description ? page.fb_og_description : config.description)
