@@ -2,10 +2,10 @@
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@10.33.0+sha512.10568bb4a6afb58c9eb3630da90cc9516417abebd3fabbe6739f0ae795728da1491e9db5a544c76ad8eb7570f5c4bb3d6c637b2cb41bfdcdb47fa823c8649319",
+  "packageManager": "pnpm@11.28.11+sha512.740184d10f81f5d5b165be88560ee7ba62406c4134896abc27a580109eec2f47c1e41d91251c944c2cababcb1c22461799ebb72de2ec625af2030b0e36c735a3",
   "engines": {
-    "node": "24.15.0",
-    "pnpm": "10.33.0"
+    "node": "26.13.1",
+    "pnpm": "11.28.11"
   },
   "scripts": {
     "build": "hexo generate",
@@ -14,10 +14,10 @@
     "server": "hexo server"
   },
   "hexo": {
-    "version": "8.1.1"
+    "version": "8.1.2"
   },
   "dependencies": {
-    "hexo": "^8.0.0",
+    "hexo": "^8.1.2",
     "hexo-generator-alias": "^1.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
@@ -25,17 +25,11 @@
     "hexo-generator-tag": "^2.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-jade": "^0.5.0",
-    "hexo-renderer-marked": "^7.0.0",
+    "hexo-renderer-marked": "^7.0.1",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-landscape": "^1.0.0",
-    "turndown": "^7.2.2",
+    "hexo-theme-landscape": "^1.1.0",
+    "turndown": "^7.2.5",
     "turndown-plugin-gfm": "^1.0.2"
-  },
-  "pnpm": {
-    "ignoredBuiltDependencies": [
-      "core-js",
-      "hexo-util"
-    ]
   }
 }
