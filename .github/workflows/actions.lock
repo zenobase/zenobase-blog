@@ -4,15 +4,15 @@
 version: 'v0.0.3'
 workflows:
     '.github/workflows/deploy.yml':
-        - 'actions/checkout@v6'
+        - 'actions/checkout@v7'
         - 'actions/deploy-pages@v5'
-        - 'actions/setup-node@v6'
+        - 'actions/setup-node@v7'
         - 'actions/upload-pages-artifact@v5'
-        - 'pnpm/action-setup@v5.0.0'
+        - 'pnpm/action-setup@v6.1.1'
 dependencies:
-    'actions/checkout@v6':
-        ref: 'v6'
-        commit: 'sha1-d23441a48e516b6c34aea4fa41551a30e30af803'
+    'actions/checkout@v7':
+        ref: 'v7'
+        commit: 'sha1-3d3c42e5aac5ba805825da76410c181273ba90b1'
         owner_id: 44036562
         repo_id: 197814629
     'actions/deploy-pages@v5':
@@ -20,9 +20,9 @@ dependencies:
         commit: 'sha1-368f82528645a54fb793d4d04e342629a3f51346'
         owner_id: 44036562
         repo_id: 438112499
-    'actions/setup-node@v6':
-        ref: 'v6'
-        commit: 'sha1-249970729cb0ef3589644e2896645e5dc5ba9c38'
+    'actions/setup-node@v7':
+        ref: 'v7'
+        commit: 'sha1-949feb2413d6458794dcd2491c4babbbce0c15c1'
         owner_id: 44036562
         repo_id: 189476904
     'actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f':
@@ -37,8 +37,8 @@ dependencies:
         repo_id: 496012378
         uses:
             - 'actions/upload-artifact@bbbca2ddaa5d8feaa63e36b76fdaad77386f024f'
-    'pnpm/action-setup@v5.0.0':
-        ref: 'v5.0.0'
-        commit: 'sha1-fc06bc1257f339d1d5d8b3a19a8cae5388b55320'
+    'pnpm/action-setup@v6.1.1':
+        ref: 'v6.1.1'
+        commit: 'sha1-73e46992e05b19abd31f2f3c20e0e7370d762115'
         owner_id: 21320719
         repo_id: 262289747
